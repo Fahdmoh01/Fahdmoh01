@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fahd Mohammed</h1>
 <h3 align="center">I am a software engineer and data scientist currently based in the United Kingdom</h3>
 
-- 🔭 I’m currently working open to **full-stack and backend engineering roles**
+- 🔭 I’m open to **full-stack and backend engineering roles**
 
-- 🌱 I’m currently learning how to build highly scalable distributed systems with **Golang**
+- 🌱 I am currently learning how to build highly scalable distributed systems with **Golang**
 
 - 📫 How to reach me **fahdmoh.1@gmail.com**
 
