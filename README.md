@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahd Mohammed</h1>
-<h3 align="center">I am a software engineer and data scientist currently based in the United Kingdom</h3>
+<h3 align="center">I am a software engineer and data scientist based in the United Kingdom</h3>
 
 - 🔭 I’m open to **full-stack and backend engineering roles**
 
