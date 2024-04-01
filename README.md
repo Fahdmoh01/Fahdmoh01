@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning **Golang** and other software engineering concepts
 
-- 📫 How to reach me **fahdmoh.1@gmail.com**
+- 📫 You can send me an email 👉🏿 **fahdmoh.1@gmail.com**
 
 - ⚡ Fun fact **I geek out on anime**
 
